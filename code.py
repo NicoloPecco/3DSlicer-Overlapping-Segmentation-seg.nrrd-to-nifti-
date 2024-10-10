@@ -10,9 +10,6 @@ import SimpleITK as sitk
 import numpy as np
 import os
 import slicerio
-import nrrd
-import subprocess
-import glob
 
 def remove_files_with_prefix(folder_path, prefix):
     # List all files in the specified directory
