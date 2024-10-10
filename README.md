@@ -16,8 +16,7 @@ Update the nrrd_file_path and output_dir variables in the script with your desir
 
 1) nrrd_file_path = "your_path_to_seg.nrrd_file/target_biopsy_new.seg.nrrd"  # Replace with your NRRD file path
 2) output_dir = "your_output_path/"  # Replace with your output directory
-3) Run the script:
-4) python3 code.py
+3) Run the script in terminal: python3 path_to_py_code/code.py
 
 **Key Features**
 
